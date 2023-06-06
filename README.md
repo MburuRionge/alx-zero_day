@@ -1,2 +1,1 @@
-My second readme
-Am still learning git in alx
+Learning git in alx is a dream come true 
